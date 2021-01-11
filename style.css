@@ -20,11 +20,11 @@ li{
 }
 @font-face{
 	font-family:'UltraLight';
-	src:url('fonts/20050.ttf');
+	src:url('20050.ttf');
 }
 @font-face{
 	font-family:'welcome';
-	src:url('fonts/20082.ttf');
+	src:url('20082.ttf');
 }
 a{
 	text-decoration: none;
